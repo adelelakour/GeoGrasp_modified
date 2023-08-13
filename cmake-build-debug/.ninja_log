@@ -1,0 +1,6 @@
+# ninja log v5
+4	6031	1691898451034366489	CMakeFiles/cloud_processor.dir/src/CompareClouds_tuple.cpp.o	af0a7d6e8ec3ed9a
+10500	10578	1690834754203758012	libGeoGrasp.a	e8dd46b74b71f00
+1	511	1691899235405182989	build.ninja	caabfcfa9ce66de4
+0	10500	1690834754131736235	CMakeFiles/GeoGrasp.dir/lib/geograsp/GeoGrasp.cpp.o	e201ea443a60970a
+6031	7483	1691898452478334120	cloud_processor	f6f6aca6f920f806
